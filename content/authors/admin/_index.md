@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abrar Zahin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Arizona State University
+  url: https://www.asu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Statistical Machine Learning, High-dimensional Statistics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Machine Learning
+- Probabilisic Graphical Models
+- Information Theory
 
 # Education to show in About widget
 education:
