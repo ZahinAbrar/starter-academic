@@ -14,7 +14,7 @@ organizations:
   url: https://www.asu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Machine Learning, High-dimensional Statistics.
+bio: My research interests include Statistical Machine Learning, High-dimensional Statistics, Information Theory.
 
 # Interests to show in About widget
 interests:
@@ -31,7 +31,7 @@ education:
     year: 2024
   - course: MSc in Electrical Engineering
     institution: Utah State University
-    year: 2009
+    year: 2019
   - course: BSc in Electrical Engineering 
     institution: Islamic University of Technology
     year: 2014
@@ -73,6 +73,6 @@ highlight_name: false
 
 Hello! I am Abrar Zahin. I am a PhD student in Electrical Engineering department at Arizona State University. Currently, I am working with Professor Gautam Dasarathy on strucutre learning of graphical models.
 
-I did my masters from Utah State university under the supervision of Professor Rose Hu. My masters research was on developing machine learning based framework for smart healthcare system.
+I completed my MSc in Electrical Engineerin from Utah State university under the supervision of Professor Rose Hu. My masters research was on developing machine learning based framework for smart healthcare system.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
