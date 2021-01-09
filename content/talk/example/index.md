@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Structure learning of graphical models
 
 event: Wowchemy Conference
 event_url: https://example.org
