@@ -25,6 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  
+  - course: PhD in Electrical Egineering
+    institution: Arizona State University
+    year: 2024
   - course: MSc in Electrical Engineering
     institution: Utah State University
     year: 2009
