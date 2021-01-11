@@ -14,12 +14,13 @@ organizations:
   url: https://www.asu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Statistical Machine Learning, High-dimensional Statistics, Information Theory.
+bio: My research interests include Statistical Machine Learning, Probabilisic Graphical Models, High-dimensional Statistics, Information Theory.
 
 # Interests to show in About widget
 interests:
 - Statistical Machine Learning
 - Probabilisic Graphical Models
+- High-dimensional Statistics
 - Information Theory
 
 # Education to show in About widget
